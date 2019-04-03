@@ -122,19 +122,19 @@ projects:
 
     assignments:
       - title: Logic Analyzer
-        link: "#https://github.com/weiaik0602/LogicAnalyzer"
+        link: "https://github.com/weiaik0602/LogicAnalyzer"
         tagline: "This project is to probe signals from the STM32, send them through USB and display them in PC using Python 3.6."
 
       - title: QuadTree
-        link: "#https://github.com/weiaik0602/QuadTree"
+        link: "https://github.com/weiaik0602/QuadTree"
         tagline: "This project is to implement Quadtree algorithm in C."
 
       - title: AVL Tree
-        link: "#https://github.com/weiaik0602/AVL"
+        link: "https://github.com/weiaik0602/AVL"
         tagline: "This C project is to implement the AVL tree algorithm."
 
       - title: PIC18 Simulator
-        link: "#https://github.com/weiaik0602/PIC18-Simulator"
+        link: "https://github.com/weiaik0602/PIC18-Simulator"
         tagline: "A PIC18-Simulator on your PC."
 
       # - title: Delta
