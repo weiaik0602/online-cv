@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ng Wei Aik
@@ -82,11 +82,10 @@ experiences:
       time: 2019 - Present
       company: Boxify Technologies Sdn Bhd
       details: |
-        Bla Bla Bla
+        Did some projects with the team here.
 
-          - Bullet point
-          - Bullet point
-
+          - I'm nice
+          - I'm very nice
     # - role: Senior Software Engineer
       # time: 2014 - 2015
       # company: Google, London
