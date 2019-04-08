@@ -70,7 +70,7 @@ education:
       university: Tunku Abdul Rahman University College
       time: 2015 - 2017
       details: |
-        Throughout these 2 years, I have leanred a lot about the basic in hardware. There were Digital
+        Throughout these 2 years, I have learned a lot about the basic in hardware. There were Digital
         Logic Principles, Analogue Electronics, Circuits and Signals and etc.
 
 
@@ -79,13 +79,16 @@ education:
 
 experiences:
     - role: Internship
-      time: 2019 - Present
+      time: Feb 2019 - May 2019
       company: Boxify Technologies Sdn Bhd
       details: |
-        Did some projects with the team here.
+        In this company, I gained a lot knowledge.
+        The team here was helping me to get into the industry work style fast.
 
-          - I'm nice
-          - I'm very nice
+          - Project on ESP8266 - ESP acts as a bridge between a china pcb board(serial communication)
+                                 and AWS Iot-Core(MQTT communication).
+          - WiFi sniffer using ESP8266 - uses ESP as a mobile wifi detector to count the number of smartphones
+                                         around the ESP and the data are recorded to Google Analytics.
     # - role: Senior Software Engineer
       # time: 2014 - 2015
       # company: Google, London
