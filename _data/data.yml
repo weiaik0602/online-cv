@@ -170,14 +170,25 @@ skills:
       - name: C/C++
         level: 80%
 
+      - name: AWS IoT Core
+        level: 70%
+
       - name: Python
         level: 70%
 
-      - name: Assembly language
-        level: 60%
-
       - name: Verilog HDL
         level: 70%
+
+      - name: TinkerCad
+        level: 50%
+
+      - name: Create PCB
+        level: 40%
+
+      - name: Assembly language
+        level: 40%
+
+
 
       # - name: Ruby on Rails
         # level: 85%
